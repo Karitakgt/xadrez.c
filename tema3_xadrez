@@ -3,7 +3,6 @@
 int main () {
     // Declaração das variáveis do JOGO DE XADREZ 
     int contadorBispo = 1;
-    int contadorTorre = 1;
     int contadorRainha = 1;
     int opcao;
 
